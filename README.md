@@ -1,4 +1,3 @@
-%%writefile README.md
 # Predicting Shopping Preferences by Support Vector Machine
 
 ## Project Description
