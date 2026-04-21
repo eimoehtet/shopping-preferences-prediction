@@ -1,7 +1,7 @@
-# Predicting Shopping Preferences by Support Vector Machine
+# Predicting Shopping Preferences
 
 ## Project Description
-This project aims to predict customer shopping preferences (Online, Store, or Hybrid) using a Support Vector Machine (SVM) model, Logistic Regression, and Gaussian Naive Bayes models. It includes data loading, exploratory data analysis (EDA), preprocessing (feature encoding and scaling), model development, hyperparameter tuning with GridSearchCV, and performance evaluation, including confusion matrix and ROC curves. A Gradio interface is also integrated for interactive predictions.
+This project aims to predict customer shopping preferences (Online, Store, or Hybrid) using various machine learning models, including Support Vector Machine (SVM), Gaussian Naive Bayes, and Logistic Regression. It includes data loading, exploratory data analysis (EDA), preprocessing (feature encoding and scaling), model development, hyperparameter tuning with GridSearchCV, and performance evaluation, including confusion matrix and ROC curves. A Gradio interface is also integrated for interactive predictions using the SVM model.
 
 ## How to Run the Code
 1.  **Clone the repository:**
@@ -22,7 +22,7 @@ This project aims to predict customer shopping preferences (Online, Store, or Hy
     *Note: If running in Google Colab, ensure you are connected to a GPU runtime if desired, and grant drive access if prompted.*
 
 ## Libraries Required
-All necessary Python libraries are listed in `requirements.txt` for each algorithm. Install them using:
+All necessary Python libraries are listed in `requirements.txt`. Install them using:
 ```bash
 pip install -r requirements.txt
 ```
