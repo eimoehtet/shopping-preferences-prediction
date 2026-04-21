@@ -1,7 +1,7 @@
 # Predicting Shopping Preferences by Support Vector Machine
 
 ## Project Description
-This project aims to predict customer shopping preferences (Online, Store, or Hybrid) using a Support Vector Machine (SVM) model. It includes data loading, exploratory data analysis (EDA), preprocessing (feature encoding and scaling), model development, hyperparameter tuning with GridSearchCV, and performance evaluation, including confusion matrix and ROC curves. A Gradio interface is also integrated for interactive predictions.
+This project aims to predict customer shopping preferences (Online, Store, or Hybrid) using a Support Vector Machine (SVM) model, Logistic Regression, and Gaussian Naive Bayes models. It includes data loading, exploratory data analysis (EDA), preprocessing (feature encoding and scaling), model development, hyperparameter tuning with GridSearchCV, and performance evaluation, including confusion matrix and ROC curves. A Gradio interface is also integrated for interactive predictions.
 
 ## How to Run the Code
 1.  **Clone the repository:**
